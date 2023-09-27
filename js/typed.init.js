@@ -5,6 +5,6 @@ var typed = new Typed('#typed', {
     typeSpeed: 200,
     loop: true,
     strings: [
-        'Data scientist', 'Computer Vision specialist', 'Also a designer',
+        'Data Engineer', 'MLOPs Engineer'
     ],
 });
